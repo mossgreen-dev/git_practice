@@ -1,9 +1,9 @@
-body {
-	text-align: center;
+nav {
+  background: #e0e0e0;
 }
 
 nav ul {
-	margin: 0;
+  padding: 10px 20px;
 }
 
 nav ul a li {
